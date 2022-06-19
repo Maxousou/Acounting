@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 
 const config = {
-  port: 5432,
+  port: 3001,
   db: {
     client: "pg",
     connection: {
